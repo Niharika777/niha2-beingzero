@@ -1,0 +1,23 @@
+{
+  "name": "niha2-beingzero",
+  "version": "1.0.0",
+  "description": "Mean Full Stack Dev-Week2",
+  "main": "index.js",
+  "scripts": {
+     "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niharika777/niha2-beingzero.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Niharika777/niha2-beingzero/issues"
+  },
+  "homepage": "https://github.com/Niharika777/niha2-beingzero#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
